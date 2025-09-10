@@ -5,3 +5,4 @@ so no issues now
 all good now
 no issues
 
+git push git pull git fetch git clone
